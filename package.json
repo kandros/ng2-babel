@@ -1,0 +1,28 @@
+{
+  "name": "message-center",
+  "version": "0.1.0",
+  "description": "A simple message center",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "message",
+    "es6",
+    "angularjs2"
+  ],
+  "author": "gdarrigo@ebay.com",
+  "license": "MIT",
+  "devDependencies": {
+    "angular2": "^2.0.0-alpha.8.dev",
+    "babel": "^6.1.18",
+    "babel-preset-es2015": "^6.1.18",
+    "babel-preset-stage-0": "^6.1.18",
+    "babel-preset-stage-1": "^6.1.18",
+    "babelify": "^7.2.0",
+    "browserify": "^12.0.1",
+    "gulp": "^3.9.0",
+    "gulp-cli": "^0.3.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
